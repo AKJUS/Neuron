@@ -4,7 +4,7 @@
 setuptools==65.6.3 # 56.0.0
 
 # needed for link on website
-flask_cors==4.0.0
+flask_cors==6.0.0
 
 # needed for engine
 # xgboost==1.7.2 # 1.5.1
